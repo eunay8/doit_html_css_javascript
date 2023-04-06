@@ -13,7 +13,7 @@ h1 {
   float: left;
   padding: 0;
   margin: 10px;
-  overflow: hidden;
+  overflow: hidden;   /* ## img 아래있는 caption이 올라올 때, li 영역 상의 내용만 보임*/
   position: relative;
 }
 .prod-list img {
